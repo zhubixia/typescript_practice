@@ -1,0 +1,26 @@
+{
+  "name": "typescript_practice",
+  "version": "1.0.0",
+  "description": "the best practice for typescript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeerHope/typescript_practice.git"
+  },
+  "keywords": [
+    "typescript",
+    "ts-node",
+    "vue",
+    "node",
+    "koa"
+  ],
+  "author": "zhubixia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeerHope/typescript_practice/issues"
+  },
+  "homepage": "https://github.com/BeerHope/typescript_practice#readme"
+}
